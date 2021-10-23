@@ -1,0 +1,22 @@
+Sistema Cinematográfico
+
+*Estúdio
+**Nome Unico
+**Dono
+**Data Fundação
+**Faturamento ano anterior
+*Filmes
+**Nome Unico
+**Numero de Meses
+**Ano de Lançamento
+**Numero Copyright
+**Custo Total do Filme
+*Cada Filmes
+**Atores
+***Nomes Artisticos Unicos
+**Seguro Social Unico
+**Nacionalidade
+**Idade
+**Sexo
+**Tipo Fisico
+***Avo, Mocinha, Gala, adolescentes
